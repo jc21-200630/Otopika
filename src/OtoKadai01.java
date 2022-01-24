@@ -9,7 +9,7 @@ import jp.jc21.t.yoshizawa.otopika.Otopika;
  * @author AB2B06
  *
  */
-public class OtoSample01  {
+public class OtoKadai01  {
 
 	/**
 	 * @param args
